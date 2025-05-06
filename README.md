@@ -19,5 +19,11 @@ File Location of digital artifact: results/narrative.html (example)
 
 Shiny link (if applicable): <http://shinyapps.io/fillin>
 
+## Data
+
+Sources:
+
+Link to raw data used: include a link to a drive folder of raw data that isn't part of the Github Repo
+
 
 
