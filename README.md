@@ -2,7 +2,7 @@
 
 ## Authors
 
-[Name 1](bcheggeseth.github.io), Name 2, Name 3
+[Name 1](http://bcheggeseth.github.io), Name 2, Name 3
 
 ## Research Questions
 
